@@ -1,5 +1,5 @@
 ## Hello World! I am Nick 👋
-🔭 I’m currently studding Computer Science at City, University of London
+🔭 I’m currently studding Computer Science at City, University of London<br>
 ⚡ Fun fact: The term "bug" in coding once referred to a real moth stuck in a computer.
 
 # 💻 Tech Stack:

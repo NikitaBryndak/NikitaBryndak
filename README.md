@@ -6,9 +6,8 @@ I'm a Computer Science student at **City, University of London**.
 - 🔭 I’m currently exploring the fields of **Artificial Intelligence** and **Data Science**.
 - 🌱 I’m currently learning more about **AWS, Scikit-Learn, Flask, and PyTorch.**
 
----
 
-### 💻 My Tech Stack
+## 💻 My Tech Stack
 
 <table>
   <tr>
@@ -50,17 +49,16 @@ I'm a Computer Science student at **City, University of London**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swiifts&layout=compact&theme=tokyonight&hide_border=true" alt="Nick's Top Languages" />
 </p> 
 
-<!-- ---
+--- --->
 
-### 🚀 My Projects
+## 📄 My Projects
 
-| Project | Description | Technologies Used |
-|---------|-------------|-------------------|
-| **[Project Name 1](link-to-repo)** | A brief 1-2 sentence description of what the project does and its purpose. | `Java` `MySQL` |
-| **[Project Name 2](link-to-repo)** | A brief 1-2 sentence description of what the project does and its purpose. | `Python` `PyTorch` `Pandas` |
-| **[Project Name 3](link-to-repo)** | A brief 1-2 sentence description of what the project does and its purpose. | `HTML5` |
+| Project                                                                            | Description                                                                                                                     | Technologies Used                                    |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **[Once Here Was Life](https://github.com/yourusername/howl-java-game)**           | A 2D Java platformer featuring dynamic level loading, interactive environments, parallax visuals, and unique enemy AI.          | `Java`                                               |
+| **[Clickbait Detector (WIP)](https://github.com/yourusername/clickbait-detector)** | Real-time YouTube title classification using a custom ML NLP model, integrated into a Chrome extension for clickbait detection. | `Python` `scikit-learn` `pytorch` `Flask` `JavaScript` |
 
- --- -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swiifts/Swiifts/output/github-snake-dark.svg" />

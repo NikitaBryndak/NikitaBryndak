@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I am Nick 👋</h1>
 
 
-I'm a Computer Science student at **City, University of London**, passionate about building innovative solutions and constantly learning new technologies.
+I'm a Computer Science student at **City, University of London**.
 
 - 🔭 I’m currently exploring the fields of **Artificial Intelligence** and **Data Science**.
 - 🌱 I’m currently learning more about **AWS, Scikit-Learn, Flask, and PyTorch.**
@@ -31,7 +31,7 @@ I'm a Computer Science student at **City, University of London**, passionate abo
   <tr>
     <td valign="top" width="50%">
       <strong>Cloud Platforms:</strong><br><br>
-      <!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> -->
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
       <!-- <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> -->
     </td>
     <td valign="top" width="50%">

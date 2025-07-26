@@ -41,22 +41,22 @@ I'm a Computer Science student at **City, University of London**.
   </tr>
 </table>
 
-<!-- 
-### 📊 My GitHub Stats
+
+<!-- ### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swiifts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nick's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swiifts&layout=compact&theme=tokyonight&hide_border=true" alt="Nick's Top Languages" />
 </p> 
+ -->
 
---- --->
 
 ## 📄 My Projects
 
 | Project                                                                            | Description                                                                                                                     | Technologies Used                                    |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| **[Once Here Was Life](https://github.com/yourusername/howl-java-game)**           | A 2D Java platformer featuring dynamic level loading, interactive environments, parallax visuals, and unique enemy AI.          | `Java`                                               |
-| **[Clickbait Detector (WIP)](https://github.com/yourusername/clickbait-detector)** | Real-time YouTube title classification using a custom ML NLP model, integrated into a Chrome extension for clickbait detection. | `Python` `scikit-learn` `pytorch` `Flask` `JavaScript` |
+| **[Clickbait Detector](https://github.com/Swiifts/clickbait-detector)** | Real-time YouTube title classification using a custom ML NLP model, integrated into a Chrome extension for clickbait detection. | `Python` `scikit-learn` `Flask` `JavaScript` |
+| **[Once Here Was Life](https://github.com/Swiifts/howl-java-game)**           | A 2D Java platformer featuring dynamic level loading, interactive environments, parallax visuals, and unique enemy AI.          | `Java`                                               |
 
 
 

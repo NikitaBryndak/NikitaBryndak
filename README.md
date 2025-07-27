@@ -45,8 +45,8 @@ I'm a Computer Science student at **City, University of London**.
 <!-- ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swiifts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nick's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swiifts&layout=compact&theme=tokyonight&hide_border=true" alt="Nick's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikitaBryndak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nick's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBryndak&layout=compact&theme=tokyonight&hide_border=true" alt="Nick's Top Languages" />
 </p> 
  -->
 
@@ -55,15 +55,15 @@ I'm a Computer Science student at **City, University of London**.
 
 | Project                                                                            | Description                                                                                                                     | Technologies Used                                    |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| **[Clickbait Detector](https://github.com/Swiifts/clickbait-detector)** | Real-time YouTube title classification using a custom ML NLP model, integrated into a Chrome extension for clickbait detection. | `Python` `scikit-learn` `Flask` `JavaScript` |
-| **[Once Here Was Life](https://github.com/Swiifts/howl-java-game)**           | A 2D Java platformer featuring dynamic level loading, interactive environments, parallax visuals, and unique enemy AI.          | `Java`                                               |
+| **[Clickbait Detector](https://github.com/NikitaBryndak/clickbait-detector)** | Real-time YouTube title classification using a custom ML NLP model, integrated into a Chrome extension for clickbait detection. | `Python` `scikit-learn` `Flask` `JavaScript` |
+| **[Once Here Was Life](https://github.com/NikitaBryndak/howl-java-game)**           | A 2D Java platformer featuring dynamic level loading, interactive environments, parallax visuals, and unique enemy AI.          | `Java`                                               |
 
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swiifts/Swiifts/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swiifts/Swiifts/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Swiifts/Swiifts/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikitaBryndak/NikitaBryndak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikitaBryndak/NikitaBryndak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NikitaBryndak/NikitaBryndak/output/github-snake.svg" />
 </picture>
 
 

@@ -4,7 +4,7 @@
 I'm a Computer Science student at **City, University of London**.
 
 - 🔭 I’m currently exploring the fields of **Artificial Intelligence** and **Data Science**.
-- 🌱 I’m currently learning more about **AWS, Scikit-Learn, Flask, and PyTorch.**
+- 🌱 I’m currently learning more about **AWS, Scikit-Learn, React and PyTorch.**
 
 
 

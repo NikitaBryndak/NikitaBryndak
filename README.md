@@ -36,7 +36,7 @@ I'm a Computer Science student at **City, University of London**.
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | **[Clickbait Detector](https://github.com/NikitaBryndak/clickbait-detector)** | Real-time YouTube title classification using a custom ML NLP model, integrated into a Chrome extension for clickbait detection. | `Python` `scikit-learn` `Flask` `JavaScript` |
 | **[Once Here Was Life](https://github.com/NikitaBryndak/howl-java-game)**           | A 2D Java platformer featuring dynamic level loading, interactive environments, parallax visuals, and unique enemy AI.          | `Java`                                               |
-| **[Restal](https://github.com/NikitaBryndak/restal)** | A modern web application built with Next.js, featuring user authentication, dashboard management, and search capabilities using MongoDB and NextAuth. | `Next.js` `TypeScript` `MongoDB` `NextAuth` `Tailwind CSS` |
+| **[Restal](https://github.com/NikitaBryndak/restal)** | A modern web application built with Next.js, featuring a complete tourism platform used by tourists and tour managers. | `Next.js` `TypeScript` `MongoDB` `NextAuth` `Tailwind CSS` |
 
 
 <picture>

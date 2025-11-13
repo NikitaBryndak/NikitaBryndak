@@ -3,8 +3,8 @@
 
 I'm a Computer Science student at **City, University of London**.
 
-- 🔭 I’m currently exploring the fields of **Artificial Intelligence** and **Data Science**.
-- 🌱 I’m currently learning more about **GCP, Next.js and PyTorch.**
+- 🔭 I’m currently exploring the fields of **Artificial Intelligence** and **Quantative Finance**.
+- 🌱 I’m currently learning more about **GCP, Math and PyTorch.**
 
 
 

@@ -12,7 +12,7 @@ I'm a Computer Science student at **City, University of London**.
 
 | Category | Tools & Technologies |
 |---|---|
-| Languages | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| Languages | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | Frontend | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | Backend & APIs | ![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white) |
 | Databases | ![SQL](https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  |
@@ -26,18 +26,19 @@ I'm a Computer Science student at **City, University of London**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikitaBryndak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nick's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBryndak&layout=compact&theme=tokyonight&hide_border=true" alt="Nick's Top Languages" />
-</p> 
+</p>
  -->
 
 
 ## 📄 My Projects
 
-| Project                                                                            | Description                                                                                                                     | Technologies Used                                    |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| **[Clickbait Detector](https://github.com/NikitaBryndak/clickbait-detector)** | Real-time YouTube title classification using a custom ML NLP model, integrated into a Chrome extension for clickbait detection. | `Python` `scikit-learn` `Flask` `JavaScript` |
-| **[Equity Backtest](https://github.com/NikitaBryndak/equity-backtest)** | A Python modular framework for backtesting equity trading strategies with full performance analytics and "plug and play" strategies, including machine learning strategies.  | `Python` `pandas` `NumPy` `Matplotlib` `XGBoost` |
-| **[Once Here Was Life](https://github.com/NikitaBryndak/howl-java-game)**           | A 2D Java platformer featuring dynamic level loading, interactive environments, parallax visuals, and unique enemy AI.          | `Java`                                               |
-| **[Restal](https://github.com/NikitaBryndak/restal)** | A modern web application built with Next.js, featuring a complete tourism platform used by tourists and tour managers. | `Next.js` `TypeScript` `MongoDB` `NextAuth` `Tailwind CSS` |
+| Project                                                                       | Description                                                                                                                                                                 | Technologies Used                                          |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| **[Order Book](https://github.com/NikitaBryndak/order-book)**                 | High-performance, thread-safe matching engine in C++20 processing ~725k orders/sec. Implements Price/Time priority matching with optimized 'ghost order' lazy cancellation, uses threading and atomics. | `C++20` `Google Test` `CMake`                              |
+| **[Equity Backtest](https://github.com/NikitaBryndak/equity-backtest)**       | A Python modular framework for backtesting equity trading strategies with full performance analytics and "plug and play" strategies, including machine learning strategies. | `Python` `pandas` `NumPy` `Matplotlib` `XGBoost`           |
+| **[Clickbait Detector](https://github.com/NikitaBryndak/clickbait-detector)** | Real-time YouTube title classification using a custom ML NLP model, integrated into a Chrome extension for clickbait detection.                                             | `Python` `scikit-learn` `Flask` `JavaScript`               |
+| **[Once Here Was Life](https://github.com/NikitaBryndak/howl-java-game)**     | A 2D Java platformer featuring dynamic level loading, interactive environments, parallax visuals, and unique enemy AI.                                                      | `Java`                                                     |
+| **[Restal](https://github.com/NikitaBryndak/restal)**                         | A modern web application built with Next.js, featuring a complete tourism platform used by tourists and tour managers.                                                      | `Next.js` `TypeScript` `MongoDB` `NextAuth` `Tailwind CSS` |
 
 
 <picture>
@@ -45,6 +46,3 @@ I'm a Computer Science student at **City, University of London**.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikitaBryndak/NikitaBryndak/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/NikitaBryndak/NikitaBryndak/output/github-snake.svg" />
 </picture>
-
-
-
